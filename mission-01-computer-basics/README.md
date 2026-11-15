@@ -21,3 +21,11 @@ TASK 1.3:
 1. ATM |Banking transactions |Card and PIN |Cash / transaction details
 2. Traffic signal |Controls traffic |Timer and sensors |Traffic lights
 3. Smart TV |Entertainment |Remote control |Video and audio
+
+-->Commands / tools used:
+1. VS Code – Prepared the mission documentation.
+2. macOS – Observed the computer's hardware and software environment.
+
+-->My understanding:
+1. A computer follows the IPOS cycle to perform tasks. Input devices help provide data, the CPU processes the data, output devices display the results, and storage devices save information. Hardware refers to the physical components of a computer, while software consists of programs and instructions. Both are necessary for a computer system to function.
+
